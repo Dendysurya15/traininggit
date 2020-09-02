@@ -1,2 +1,3 @@
 Nasi goreng
 1. nyiapin bumbu
+2. menambahkan nasi
