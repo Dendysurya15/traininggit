@@ -2,3 +2,4 @@ Nasi goreng
 1. nyiapin bumbu
 2. masukkan minyak
 3. tambahkan nasi
+4. mengaduk nasi
